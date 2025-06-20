@@ -35,7 +35,7 @@ streamlit run app.py
 
 ## 🌐 Live Demo
 
-[Click here to view deployed app](#) <!-- Replace with your actual Streamlit link -->
+[Click here to view deployed app](#) <!--(http://localhost:8501)-->
 
 ## 🧠 Learnings
 
