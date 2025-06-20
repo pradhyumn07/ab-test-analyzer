@@ -33,9 +33,8 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## 🌐 Live Demo
-
-[Click here to view deployed app](#) <!--(http://localhost:8501)-->
+## 🌐 Live Demo  
+[Click here to view deployed app](https://your-streamlit-app-url)
 
 ## 🧠 Learnings
 
